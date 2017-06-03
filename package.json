@@ -1,0 +1,16 @@
+{
+  "name": "start-project",
+  "version": "1.0.0",
+  "description": "start project for coder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "browser",
+    "sync"
+  ],
+  "author": "Artem Kikhtenko",
+  "license": "ISC"
+}
